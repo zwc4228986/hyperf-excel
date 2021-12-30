@@ -1,0 +1,18 @@
+{
+  "name": "zwc4228986/hyperf-excel",
+  "description": "hyperf-excel",
+  "require": {
+      "php": "^7.4|^8.0"
+  },
+  "authors": [
+      {
+          "name": "zhouwenchang",
+          "email": "1324028467@qq.com"
+      }
+  ],
+  "autoload": {
+      "psr-4": {
+          "Zwc4228986\\HyperfExcel\\": "src"
+      }
+  }
+}
