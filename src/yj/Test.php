@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Zwc4228986\HyperfExcel;
+namespace Zwc4228986\HyperfExcel\Yj;
 
 class Test
 {
